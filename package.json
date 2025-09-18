@@ -19,6 +19,9 @@
     "test": "pnpm --filter '*' run test",
     "test:typecheck": "pnpm --filter '*' run test:typecheck"
   },
+  "bin": {
+    "core": "packages/core/bin/glint.js"
+  },
   "devDependencies": {
     "@babel/core": "^7.26.10",
     "@babel/parser": "^7.27.0",
