@@ -49,7 +49,7 @@
     "types"
   ],
   "bin": {
-    "glint": "bin/glint.js",
+    "core": "bin/glint.js",
     "glint-language-server": "bin/glint-language-server.js"
   },
   "scripts": {
