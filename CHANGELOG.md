@@ -1,5 +1,10 @@
 # Changelog
 
+
+
+
+
+
 ## Release (2025-09-15)
 
 * @glint/core 2.0.0-alpha.7 (minor)
